@@ -26,7 +26,7 @@
 ```text
 ╭──────────────────────────────────────────────────────────────╮
 │  Venício Gomes                                                │
-│  Analista de Infraestrutura Pleno @ Soluti Digital            │
+│  Analista de Infraestrutura Pleno            │
 │  Bacharelado em Sistemas de Informação — Una                  │
 │  Goiânia, Goiás — Brasil                                      │
 ╰──────────────────────────────────────────────────────────────╯
@@ -63,7 +63,7 @@ Tenho interesse em projetos que conectem **infraestrutura + automação + desenv
 
 ## `connect --with venicio`
 
-Está trabalhando em algo relacionado a infraestrutura, automação ou segurança? Vamos conversar.
+Está trabalhando em algo relacionado a Sites, sistemas, infraestrutura ou automação? Vamos conversar.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ven%C3%ADcio-gomes-18182320a/)
 
